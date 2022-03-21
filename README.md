@@ -13,7 +13,7 @@
 
 
 # Tercer Paso
-<p>Iremos editando el Readme.md en la nueva rama llamada 'nueva-rama' añadiendo los diferentes pasos a realizar, mediante el lenguaje Markdown</p>
+<p>Iremos editando el Readme.md en la nueva rama llamada 'nueva-rama' añadiendo los diferentes pasos a realizar, mediante el lenguaje Markdown.</p>
 
 ![Captura3](https://user-images.githubusercontent.com/91874398/159231373-d1427ace-552e-4201-8e47-e52f098745a1.PNG)
 
@@ -31,19 +31,19 @@
 
 
 # Sexto Paso
-<p>A continuación nos dara la opción de combinar los cambios dandole a 'Merge Pull request' para finalizar de pasar los cambios de 'nueva-rama' a la rama main</p>
+<p>A continuación nos dara la opción de combinar los cambios dandole a 'Merge Pull request' para finalizar de pasar los cambios de 'nueva-rama' a la rama main.</p>
 
 ![Captura6](https://user-images.githubusercontent.com/91874398/159231455-f62bbb63-ac9b-463a-803b-bc557eec5d59.PNG)
 
 
 # Septimo Paso
-<p>Al darle a 'Merge Pull request' nos saldra de fusionar las dos ramas dandole al botón 'Confirm Merge' y a partir de aquí ya estaran fusionadas</p>
+<p>Al darle a 'Merge Pull request' nos saldra de fusionar las dos ramas dandole al botón 'Confirm Merge' y a partir de aquí ya estaran fusionadas.</p>
 
 ![Captura7](https://user-images.githubusercontent.com/91874398/159231516-ca8816b3-d165-4d22-ac58-9fe38582df89.PNG)
 
 
 # Octavo Paso
-<p>Al finalizar la fusión nos saldrá la opción de eliminar la rama creada anteriormente, es decir, 'nueva-rama' como ya hemos echo los cambios y se han fusionada 'nueva-rama' ya no nos interesa, esta la podemos eliminar dandole a delete branch eliminando así 'nueva-rama'</p>
+<p>Al finalizar la fusión nos saldrá la opción de eliminar la rama creada anteriormente, es decir, 'nueva-rama' como ya hemos echo los cambios y se han fusionada 'nueva-rama' ya no nos interesa, esta la podemos eliminar dandole a delete branch eliminando así 'nueva-rama'.</p>
 
 ![Captura8](https://user-images.githubusercontent.com/91874398/159231534-d9e5705b-0244-4802-bf5e-f93d002a136e.PNG)
 
