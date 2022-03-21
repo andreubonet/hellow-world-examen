@@ -2,11 +2,13 @@
 
 # Primer Paso
 <p>El primer paso a realizar será crear un nuevo repositorio desde GitHub, a este le indicaremos que será público y que nos añada un Readme.md, se nos creará el repositorio en la rama main.</p>
+
 ![Captura1](https://user-images.githubusercontent.com/91874398/159231288-69943100-76c3-4fab-a5e1-d829fa9b806b.PNG)
 
 
 # Segundo Paso
 <p>El segundo paso viene a ser crear un nueva rama, para eso nos iremos al apartado de ramas(en el cual solo tenemos la rama main e indicaremos que nos cree una nueva rama en este caso llamada 'nueva-rama').</p>
+
 ![Captura2](https://user-images.githubusercontent.com/91874398/159231356-032a5fbf-2802-49f2-b9b2-7a01f5e8c5cb.PNG)
 
 
