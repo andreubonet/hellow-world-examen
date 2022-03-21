@@ -7,7 +7,7 @@
 
 
 # Segundo Paso
-<p>El segundo paso viene a ser crear un nueva rama, para eso nos iremos al apartado de ramas(en el cual solo tenemos la rama main e indicaremos que nos cree una nueva rama en este caso llamada 'nueva-rama').</p>
+<p>El segundo paso viene a ser crear un nueva rama, para eso nos iremos al apartado de ramas(en el cual solo tenemos la rama main e indicaremos que nos cree una nueva rama en este caso llamada ('nueva-rama').</p>
 
 ![Captura2](https://user-images.githubusercontent.com/91874398/159231356-032a5fbf-2802-49f2-b9b2-7a01f5e8c5cb.PNG)
 
