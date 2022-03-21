@@ -11,6 +11,9 @@
 
 ![Captura2](https://user-images.githubusercontent.com/91874398/159231356-032a5fbf-2802-49f2-b9b2-7a01f5e8c5cb.PNG)
 
+![Captura2 1](https://user-images.githubusercontent.com/91874398/159233035-16a7e1d2-d942-4226-88bb-604f01c73c19.PNG)
+
+
 
 # Tercer Paso
 <p>Iremos editando el Readme.md en la nueva rama llamada 'nueva-rama' añadiendo los diferentes pasos a realizar, mediante el lenguaje Markdown.</p>
