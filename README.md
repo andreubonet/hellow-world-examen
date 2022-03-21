@@ -1,4 +1,4 @@
-# hellow-world-examen
+# hello-world-examen
 
 # Primer Paso
 <p>El primer paso a realizar será crear un nuevo repositorio desde GitHub, a este le indicaremos que será público y que nos añada un Readme.md, se nos creará el repositorio en la rama main.</p>
